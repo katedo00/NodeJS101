@@ -1,6 +1,8 @@
 HTML:
 - Su khac biet giua p va cac the h, vi sao can?
 - Vi sao can tag DOCTYPE
+- Phan biet th & td
+- Su ra doi cua nodejs <- tag form html
 
 He dieu hanh & Network:
 - Doc 2 phan bai tap 
