@@ -1,0 +1,7 @@
+HTML:
+- Su khac biet giua p va cac the h, vi sao can?
+- Vi sao can tag DOCTYPE
+
+He dieu hanh & Network:
+- Doc 2 phan bai tap 
+- Nghien cuu them ve HTTP vs WebSocket vs Proxie vs Protocol
